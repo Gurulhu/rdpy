@@ -7,3 +7,7 @@ README.md~
 dist/*
 build/*
 rdpy.egg-info/*
+.venv
+venv/
+venv/*
+test.rss
